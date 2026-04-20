@@ -1,6 +1,5 @@
 SwiftSolve AI Platform 🚀
-Internship Project | Frontend 
-
+Internship Project | Frontend
 A high-performance, conversion-centric agency platform designed for the next generation of AI automation. Developed as a core deliverable during my internship at SwiftSolve AI, focusing on translating complex brand requirements into a functional, interactive web interface.
 
 🌐 Live Demo
