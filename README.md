@@ -1,58 +1,96 @@
-SwiftSolve AI Platform 🚀
-Internship Project | Frontend
-A high-performance, conversion-centric agency platform designed for the next generation of AI automation. Developed as a core deliverable during my internship at SwiftSolve AI, focusing on translating complex brand requirements into a functional, interactive web interface.
+# SwiftSolve AI Platform 🚀
 
-🌐 Live Demo
-View Live Project on Vercel - https://swiftsolve-ai-platform.vercel.app/
+**Internship Project | Frontend**
 
-✨ Key Features
-Dynamic Navigation: Smooth-scroll orchestrated navbar with functional ID-linked "Why Us" and "Contact" logic.
+---
 
-Bespoke Branding: Integrated a custom "Swift Bird" minimalist 2D logo into a high-end, glassmorphism UI.
+A high-performance, conversion-focused agency platform built for the next generation of AI automation. Developed during my internship at SwiftSolve AI, this project focuses on converting complex brand requirements into a clean, interactive, and scalable frontend experience.
 
-Animated Agency Modules: Deeply integrated Framer Motion animations for staggered section reveals and hover interactions.
+---
 
-Performance Engineering: Optimized for zero-bloat code, resulting in near-instant load times and 60fps interaction rates.
+## • 🌐 Live Demo
 
-🛠️ Tech Stack
-Frontend
-React 18 (Vite): Modern, fast-refresh development environment.
+👉 https://swiftsolve-ai-platform.vercel.app/
 
-Tailwind CSS v3: Custom theme utility-first styling.
+---
 
-Framer Motion: High-end orchestration and scroll-linked animations.
+## • ✨ Key Features
 
-Lucide React: Minimalist iconography.
+* **Dynamic Navigation:** Smooth-scroll navbar with ID-linked section routing ("Why Us", "Contact").
+* **Custom Branding:** Integrated "Swift Bird" minimalist 2D logo with glassmorphism UI.
+* **Interactive Animations:** Built using Framer Motion for smooth section reveals and hover effects.
+* **Performance Optimization:** Lightweight architecture ensuring fast load times and smooth interactions.
 
-📂 Project Structure
-This project uses a structured architecture to ensure code maintainability:
+---
 
-Plaintext
+## • 🛠️ Tech Stack
+
+### Frontend
+
+* **React 18 (Vite)** – Fast development environment
+* **Tailwind CSS v3** – Utility-first styling
+* **Framer Motion** – Animation library
+* **Lucide React** – Icon system
+
+---
+
+## • 📂 Project Structure
+
+```
 swiftsolve-ai-platform/
-└── frontend/                # Core application directory
-    ├── public/              # Branding assets & Swift Bird logo
+└── frontend/                
+    ├── public/              
     ├── src/                 
-    │   ├── components/      # Modular UI (Header, Hero, WhyUs, Contact)
-    │   ├── App.jsx          # Component orchestration
+    │   ├── components/      
+    │   ├── App.jsx          
     │   └── main.jsx         
-    ├── tailwind.config.js   # Custom brand color definitions
+    ├── tailwind.config.js   
     └── package.json         
-🚀 Complete Local Setup Guide
-Prerequisites
-Node.js (v18 or higher recommended)
+```
 
-Git
+---
 
-1. Clone the Repository
-Bash
+## • 🚀 Local Setup Guide
+
+### Prerequisites
+
+* Node.js (v18 or higher)
+* Git
+
+---
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/Vidushijain13/swiftsolve-ai-platform.git
 cd swiftsolve-ai-platform
+```
 
-2. Frontend Setup
-Bash
+---
+
+### 2. Install Dependencies
+
+```bash
 cd frontend
 npm install
+```
 
-3. Start the Application
-Bash
+---
+
+### 3. Run the Application
+
+```bash
 npm run dev
+```
+
+---
+
+## • 📌 Key Learnings
+
+* Built scalable component-based architecture using React
+* Improved UI/UX using animation-driven design
+* Practiced performance-focused frontend development
+* Translated real-world business requirements into functional UI
+
+---
+
